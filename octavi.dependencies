@@ -1,11 +1,11 @@
 [
   {
-    "repository"  : "kernel_oneplus_sdm845",
+    "repository"  : "kernel_oneplus_fajita",
     "target_path" : "kernel/oneplus/sdm845"
   },
   {
-    "repository"  : "vendor_oneplus_fajita",
-    "target_path" : "vendor/oneplus"
+    "repository"  : "vendor_oneplus_sdm845-common",
+    "target_path" : "vendor/oneplus/sdm845-common"
   },
   {
     "repository"  : "device_oneplus_common",
